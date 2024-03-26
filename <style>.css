@@ -1,0 +1,18 @@
+<style>
+    .spacing {
+        padding: center;
+    }
+    .side {
+        width: 29%;
+        float: left;
+        height: 75%;
+    }
+    .main {
+        width: 70%;
+        float: left;
+        height: 75%;
+    }
+    #nav {
+        width: 100%;
+        display: inline-block;
+    }
